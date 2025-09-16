@@ -1,0 +1,60 @@
+Data Structure
+│
+├── Linear
+│   ├── Array
+│   ├── Linked List
+│   │   ├── Singly Linked List
+│   │   ├── Doubly Linked List
+│   │   └── Circular Linked List
+│   ├── Stack (LIFO)
+│   └── Queue (FIFO)
+│       ├── Simple Queue
+│       ├── Circular Queue
+│       ├── Priority Queue
+│       └── Deque (Double Ended Queue)
+│
+├── Non-Linear
+│   ├── Tree
+│   │   ├── Binary Tree
+│   │   ├── Binary Search Tree (BST)
+│   │   ├── Self-Balancing Trees
+│   │   │   ├── AVL Tree
+│   │   │   └── Red-Black Tree
+│   │   ├── Heap
+│   │   │   ├── Min Heap
+│   │   │   └── Max Heap
+│   │   ├── B-Tree / B+ Tree
+│   │   ├── Trie
+│   │   ├── Segment Tree
+│   │   ├── Fenwick Tree (Binary Indexed Tree)
+│   │   ├── Splay Tree
+│   │   └── Treap
+│   └── Graph
+│       ├── Representation
+│       │   ├── Adjacency Matrix
+│       │   └── Adjacency List
+│       ├── Directed / Undirected Graph
+│       ├── Weighted / Unweighted Graph
+│       └── Disjoint Set (Union-Find)
+│
+├── Hash-based
+│   ├── Hash Table
+│   ├── Hash Map
+│   ├── Hash Set
+│   └── Bloom Filter
+│
+├── Abstract Types (ADT)
+│   ├── List
+│   ├── Map
+│   ├── Dictionary
+│   ├── Multiset (Bag)
+│   └── Priority Queue
+│
+└── Specialized / Advanced
+    ├── Skip List
+    ├── Suffix Array
+    ├── Suffix Tree
+    ├── KD-Tree / Quad-Tree / Oct-Tree
+    ├── Fibonacci Heap
+    ├── Binomial Heap
+    └── LRU Cache (Linked List + Hash Map combo)
