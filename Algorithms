@@ -1,0 +1,112 @@
+Algorithms
+│
+├── Sorting Algorithms
+│   ├── Bubble Sort
+│   ├── Selection Sort
+│   ├── Insertion Sort
+│   ├── Merge Sort
+│   ├── Quick Sort
+│   ├── Heap Sort
+│   ├── Counting Sort
+│   ├── Radix Sort
+│   ├── Bucket Sort
+│   └── Shell Sort
+│
+├── Searching Algorithms
+│   ├── Linear Search
+│   ├── Binary Search
+│   ├── Ternary Search
+│   ├── Jump Search
+│   ├── Exponential Search
+│   └── Fibonacci Search
+│
+├── Graph Algorithms
+│   ├── Traversal
+│   │   ├── BFS (Breadth-First Search)
+│   │   └── DFS (Depth-First Search)
+│   ├── Shortest Path
+│   │   ├── Dijkstra's Algorithm
+│   │   ├── Bellman-Ford Algorithm
+│   │   ├── Floyd-Warshall Algorithm
+│   │   └── A* Search
+│   ├── Minimum Spanning Tree
+│   │   ├── Prim's Algorithm
+│   │   └── Kruskal's Algorithm
+│   ├── Topological Sort
+│   ├── Connected Components
+│   └── Network Flow
+│       ├── Ford-Fulkerson
+│       └── Edmonds-Karp
+│
+├── Dynamic Programming (DP)
+│   ├── 0/1 Knapsack
+│   ├── Fractional Knapsack
+│   ├── Longest Common Subsequence (LCS)
+│   ├── Longest Increasing Subsequence (LIS)
+│   ├── Matrix Chain Multiplication
+│   ├── Coin Change Problem
+│   ├── Minimum/Maximum Path Sum
+│   ├── DP on Trees
+│   └── DP on Graphs
+│
+├── Divide and Conquer
+│   ├── Merge Sort
+│   ├── Quick Sort
+│   ├── Binary Search
+│   ├── Closest Pair of Points
+│   └── Strassen's Matrix Multiplication
+│
+├── Greedy Algorithms
+│   ├── Activity Selection Problem
+│   ├── Huffman Coding
+│   ├── Fractional Knapsack
+│   ├── Minimum Spanning Tree
+│   │   ├── Prim
+│   │   └── Kruskal
+│   └── Job Sequencing Problem
+│
+├── Backtracking
+│   ├── N-Queens Problem
+│   ├── Sudoku Solver
+│   ├── Rat in a Maze
+│   ├── Hamiltonian Path/Cycle
+│   └── Graph Coloring
+│
+├── String Algorithms
+│   ├── Pattern Searching
+│   │   ├── Naive Search
+│   │   ├── KMP (Knuth-Morris-Pratt)
+│   │   ├── Rabin-Karp
+│   │   └── Z Algorithm
+│   ├── Trie-based Search
+│   ├── Suffix Array / Suffix Tree
+│   └── Longest Palindromic Substring
+│
+├── Mathematical / Number Algorithms
+│   ├── GCD / LCM
+│   ├── Sieve of Eratosthenes
+│   ├── Modular Exponentiation
+│   ├── Primality Testing
+│   │   ├── Trial Division
+│   │   └── Miller-Rabin
+│   ├── Fast Fourier Transform (FFT)
+│   ├── Combinatorics
+│   └── Matrix Exponentiation
+│
+├── Bit Manipulation Algorithms
+│   ├── Count Set Bits
+│   ├── XOR Problems
+│   ├── Subset Generation
+│   ├── Power of 2 Check
+│   └── Bitmask DP
+│
+├── Advanced / Specialized
+│   ├── Segment Tree Algorithms
+│   │   ├── Range Sum Query (RSQ)
+│   │   ├── Range Minimum/Maximum Query
+│   │   └── Lazy Propagation
+│   ├── Fenwick Tree (Binary Indexed Tree)
+│   ├── Disjoint Set (Union-Find)
+│   ├── LRU Cache (using Linked List + Hash Map)
+│   ├── KMP / Z Algorithm / Trie (Advanced String)
+│   └── Convex Hull / Computational Geometry
